@@ -88,3 +88,12 @@ color: #e05273;
     display: flex;
     flex-direction: row;
 }
+#imag{
+    margin-right: 100px;
+    margin-left: 50px;
+}
+.parag{
+    margin-top: 50px;
+    margin-right: 50px;
+    font-size: large;
+}
