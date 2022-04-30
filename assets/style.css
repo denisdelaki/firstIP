@@ -54,6 +54,10 @@ color: #e05273;
 .c{
     display: flex;
     display: inline;
+    padding: 20px;
+}
+.d{
+    padding: 20px;
 }
 .sec{
     
@@ -111,4 +115,13 @@ color: #e05273;
 #board{
     display: flex;
     flex-direction: row;
+    margin-top: 50px;
+}
+.meet{
+    margin-right: 300px;
+    margin-top: 30px;
+}
+#spa .div{
+    display: flex;
+    display: inline;
 }
