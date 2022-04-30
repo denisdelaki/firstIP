@@ -1,0 +1,76 @@
+body {
+    background-color: #fff9fb;
+    margin: 0 auto;
+    padding: 30px;
+    display: flex;
+    display: block;
+    font-family: Nunito;
+    
+    }
+    h1{
+        display: flex;
+        text-align: left;
+    }
+.dive{
+    display: flex;
+    display: inline;
+    padding: 0px;
+}
+.col{
+    color: rgb(190, 76, 76);
+}
+.enrol{
+   background-color: #EC4067; 
+    color: #f8f2f4;
+    padding: 10px;
+    font-size: medium;
+    border-radius: 5px;
+}
+nav{
+    float: right;
+    text-align: right;
+    }
+.moringa{
+color: #e05273;
+    }
+.nature{
+    padding: 20px;
+}
+.explore{
+    color: #bd919b;
+    padding: 10px;
+    font-size: medium;
+}
+
+.class{
+    display: flex;
+    display: inline;
+}
+.a{
+    padding: 20px;
+}
+.b{
+    padding: 20px;
+}
+
+.c{
+    display: flex;
+    display: inline;
+}
+.sec{
+    
+    display: flex;
+    flex-direction: row;
+    
+}.fin{
+    display: flex;
+    flex-direction: row;
+}
+.arrange{
+    display: flex;
+    flex-direction: row;
+}
+.disp{
+    padding: 0px;
+    margin-top: 100px;
+}
