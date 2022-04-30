@@ -41,7 +41,6 @@ color: #e05273;
     padding: 10px;
     font-size: medium;
 }
-
 .class{
     display: flex;
     display: inline;
@@ -52,7 +51,6 @@ color: #e05273;
 .b{
     padding: 20px;
 }
-
 .c{
     display: flex;
     display: inline;
@@ -96,4 +94,17 @@ color: #e05273;
     margin-top: 50px;
     margin-right: 50px;
     font-size: large;
+}
+#grad{
+    display: flex;
+    flex-direction: row;
+}
+.part{
+    margin-top: 50px;
+    margin-right: 200px;
+    font-size: large;
+}
+#part{
+    margin-top: 50px;
+    margin-left: 50px;
 }
