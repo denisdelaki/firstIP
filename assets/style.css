@@ -69,6 +69,7 @@ color: #e05273;
 .arrange{
     display: flex;
     flex-direction: row;
+    margin-left: 100px;
 }
 .disp{
     padding: 0px;
@@ -79,4 +80,7 @@ color: #e05273;
     margin-right: 30px;
     color: black;
 
+}
+.stori{
+    background-color: #d1cacd;
 }
