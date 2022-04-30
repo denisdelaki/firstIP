@@ -101,10 +101,14 @@ color: #e05273;
 }
 .part{
     margin-top: 50px;
-    margin-right: 200px;
+    margin-left: 200px;
     font-size: large;
 }
 #part{
     margin-top: 50px;
-    margin-left: 50px;
+    margin-right: 50px;
+}
+#board{
+    display: flex;
+    flex-direction: row;
 }
