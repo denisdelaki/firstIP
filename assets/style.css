@@ -84,3 +84,7 @@ color: #e05273;
 .stori{
     background-color: #d1cacd;
 }
+#orient{
+    display: flex;
+    flex-direction: row;
+}
