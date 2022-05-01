@@ -37,9 +37,11 @@ color: #e05273;
     padding: 20px;
 }
 .explore{
-    color: #bd919b;
+    color: #f1093f;
     padding: 10px;
     font-size: medium;
+    border-color: #e05273;
+
 }
 .class{
     display: flex;
@@ -93,7 +95,13 @@ color: #e05273;
 #imag{
     margin-right: 100px;
     margin-left: 50px;
+    position: relative;
+  text-align: center;
+  color: rgb(240, 235, 235);
+  font-size: large;
+
 }
+
 .parag{
     margin-top: 50px;
     margin-right: 50px;
@@ -105,7 +113,7 @@ color: #e05273;
 }
 .part{
     margin-top: 50px;
-    margin-left: 200px;
+    margin-left: 100px;
     font-size: large;
 }
 #part{
@@ -125,3 +133,46 @@ color: #e05273;
     display: flex;
     display: inline;
 }
+h4{
+    color: #EC4067;
+}
+h1{
+    font-size: large;
+    margin-right: 20px;
+    font-weight: bold;
+}
+.skil{
+    margin-bottom: 10px;
+}
+.cool{
+    margin-right: 200px;
+}
+.bike{
+    font-size: large;
+}
+.still{
+    color: #EC4067;
+}
+.topR{
+    position: absolute;
+  top: 8px;
+  right: 16px;
+  font-size: large;
+}
+.botL {
+    position: absolute;
+    bottom: 8px;
+    left: 16px;
+  }
+  .topL{
+    position: absolute;
+    top: 8px;
+    left: 16px;
+    font-size: large;
+  }
+  .botR{
+    position: absolute;
+    bottom: 8px;
+    right: 16px;
+    font-size: large;
+  }
